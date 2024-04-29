@@ -1,0 +1,3 @@
+:host ::ng-deep #okta-sign-in-widget .auth-container.main-container.no-beacon .okta-sign-in-header.auth-header .auth-org-logo{
+    max-height: 200px;
+}
