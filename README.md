@@ -1,4 +1,4 @@
-# **Advanced Projects - III (ECE-GY 9941)**
+# **Advanced Project - III (ECE-GY 9941)**
 
 **Title:** ShopXperience **Team Members:** Aditya Jadhav - aj3781 **N Number:** N16901169
 
